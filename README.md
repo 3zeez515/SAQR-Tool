@@ -53,5 +53,5 @@
 ---
 
 <div align="center">
-  <p>Developed with ❤️ by <b>3zeez515</b></p>
+  <p>Developed with ⚙ by <b>Abdulaziz A</b></p>
 </div>
