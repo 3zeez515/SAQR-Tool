@@ -1,0 +1,20 @@
+Copyright © 2026 Abdulaziz
+
+All rights reserved.
+
+This software (SAQR Tool) is provided for end-user use only.
+
+Users are allowed to install and use the executable application (.exe) as provided.
+Copying, modifying, reverse engineering, redistributing, or accessing the source code
+of this software is strictly prohibited without explicit written permission from the author.
+
+-
+
+جميع الحقوق محفوظة © 2026 عبد العزيز
+
+
+هذا البرنامج (SAQR Tool) مُخصّص للاستخدام الشخصي فقط.
+
+يُسمح للمستخدمين بتثبيت واستخدام الملف التنفيذي (.exe) كما هو مُقدّم.
+
+يُحظر منعًا باتًا نسخ أو تعديل أو هندسة عكسية أو إعادة توزيع أو الوصول إلى شفرة المصدر لهذا البرنامج دون إذن كتابي صريح من المؤلف.
