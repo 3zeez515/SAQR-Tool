@@ -4,7 +4,7 @@
 
   # SAQR Tool v4.4.0
   
-  **الأداة الأقوى لتطوير، تشفير، وإصلاح ملفات الـ `JS` , `LUA`**
+  **الأداة الأقوى لتطوير، تشفير، وإصلاح ملفات `JS` , `LUA`**
 
   [![Version](https://img.shields.io/badge/Version-4.4.0-blue?style=for-the-badge&logo=github)](https://github.com/3zeez515/SAQR-Tool/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/3zeez515/SAQR-Tool)
