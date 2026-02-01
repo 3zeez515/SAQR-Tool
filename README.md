@@ -49,8 +49,7 @@
 
 ## 📸 استعراض الأداة (Screenshots)
 > [!TIP]
-> يمكنك سحب صور واجهة البرنامج هنا لتعطي فكرة واضحة للمستخدمين.
- <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467616981971632208/Screenshot_2026-02-01_232540.png?ex=69810853&is=697fb6d3&hm=47e7ddbb0f95611f3e0318423602208a931c4822704c9506ff2260ed271b6c3e&" alt="SAQR Logo" width="1000">
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467616981971632208/Screenshot_2026-02-01_232540.png?ex=69810853&is=697fb6d3&hm=47e7ddbb0f95611f3e0318423602208a931c4822704c9506ff2260ed271b6c3e&" alt="SAQR Logo" width="500">
 ---
 
 <div align="center">
