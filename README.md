@@ -8,7 +8,7 @@
 
   [![Version](https://img.shields.io/badge/Version-4.4.0-blue?style=for-the-badge&logo=github)](https://github.com/3zeez515/SAQR-Tool/releases)
   [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows)](https://github.com/3zeez515/SAQR-Tool)
-  [![LUA Support](https://img.shields.io/badge/Language-LUA-000080?style=for-the-badge&logo=lua)](https://github.com/3zeez515/SAQR-Tool)
+  [![Language-LUA](https://img.shields.io/badge/Language-LUA-000080?style=for-the-badge&logo=lua)](https://github.com/3zeez515/SAQR-Tool) [![Language-JS](https://img.shields.io/badge/Language-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/3zeez515/SAQR-Tool)
 
 </div>
 
