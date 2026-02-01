@@ -35,7 +35,7 @@
 | اسم الملف | النوع | رابط التحميل |
 | :--- | :--- | :--- |
 | **SAQR Tool Full Source** | `ZIP` | [**Download Source 🚀**](https://github.com/3zeez515/SAQR-Tool/archive/refs/heads/main.zip) |
-| **Direct Installer (v4.4.0)** | `EXE` | [**Download Installer ⚡**]([exe](https://github.com/3zeez515/SAQR-Tool/releases/download/v4.4.0/SAQR_Tool_Setup_v4.4.0.exe)) |
+| **Direct Installer (v4.4.0)** | `EXE` | [**Download Installer ⚡**]((https://github.com/3zeez515/SAQR-Tool/releases/download/v4.4.0/SAQR_Tool_Setup_v4.4.0.exe)) |
 
 ---
 
