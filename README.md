@@ -47,9 +47,21 @@
 
 ---
 
-## 📸 استعراض الأداة (Screenshots)
+## 📸 خطوات التحميل (Screenshots)
 > 
- <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467616981971632208/Screenshot_2026-02-01_232540.png?ex=69810853&is=697fb6d3&hm=47e7ddbb0f95611f3e0318423602208a931c4822704c9506ff2260ed271b6c3e&" alt="SAQR Logo" width="1000">  <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467616981971632208/Screenshot_2026-02-01_232540.png?ex=69810853&is=697fb6d3&hm=47e7ddbb0f95611f3e0318423602208a931c4822704c9506ff2260ed271b6c3e&" alt="SAQR Logo" width="1000">
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862296653991996/2.png?ex=6981eccb&is=69809b4b&hm=f3252ad8afc3615d593d5c1e0a2adbd49fd28e2de9b84e850eb01859fd1c94ae&" alt="SAQR Logo" width="250">
+>
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862297350377484/3.png?ex=6981eccb&is=69809b4b&hm=5ec922f09bc5091ee394895aacbdc7ad434d7edb269d06155aeb1d93a839b4eb&" alt="SAQR Logo" width="250">
+ >
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862298134708469/4.png?ex=6981eccb&is=69809b4b&hm=31fcde72639977e2288cc8c9ffddfed99d1e103afa0dde2ee3deba3c5416cd74&" alt="SAQR Logo" width="250">
+ >
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862298654675026/5.png?ex=6981eccb&is=69809b4b&hm=3c03594383216ec2bebf9197a664d615773d0dd049a6fa3be993551e44d8c3e0&" alt="SAQR Logo" width="250">
+ >
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862299321831587/6.png?ex=6981eccb&is=69809b4b&hm=074df25d6928977da13565e9e96f33f7c08069265a9bc7fecd7b962c5c66119e&" alt="SAQR Logo" width="250">
+ >
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862294997368974/7.png?ex=6981ecca&is=69809b4a&hm=ec3e0be62616b49be0ad00c86011cf19c5c12f56f7084986ef56a8b7af00d922&" alt="SAQR Logo" width="250">
+ >
+ <img src="https://cdn.discordapp.com/attachments/1247296988958036152/1467862294620012707/image.png?ex=6981ecca&is=69809b4a&hm=19746660fb7886267a029e7dff5ac1afc08d1ed1ad0c9c04b1f7535d29dcea35&" alt="SAQR Logo" width="250">
 ---
 
 <div align="center">
